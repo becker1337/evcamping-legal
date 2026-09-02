@@ -4,7 +4,7 @@ title: Support
 
 # EVCamping Support
 
-[Privacy Policy](index.md) · Support
+[Privacy Policy](index.md) · Support · [Dansk](da/support.md)
 
 ## Contact
 
