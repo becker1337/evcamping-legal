@@ -1,6 +1,6 @@
 # EVCamping
 
-[Privacy Policy](#privacy-policy) · [Support](support.md) · [Dansk](da/index.md)
+[Privacy Policy](#privacy-policy) · [Support](support.md) · [Marketing](marketing.md) · [Dansk](da/index.md)
 
 # Privacy Policy
 
