@@ -1,6 +1,6 @@
 # EVCamping
 
-[Privatlivspolitik](#privatlivspolitik) · [Support](support.md) · [English](../index.md)
+[Privatlivspolitik](#privatlivspolitik) · [Support](support.md) · [Marketing](marketing.md) · [English](../index.md)
 
 # Privatlivspolitik
 
